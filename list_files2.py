@@ -6,7 +6,3 @@ txt_files = list(Path('.').rglob("*.txt"))
 print("\n.txt files recursively:")
 for file in txt_files:
     print(file)
-
-print("one remote line")
-print("another remote line")
-
