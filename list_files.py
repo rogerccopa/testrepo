@@ -6,3 +6,5 @@ files = [f for f in Path('.').iterdir() if f.is_file()]
 print("Files in current directory:")
 for file in files:
     print(file)
+
+print("one new local line")
