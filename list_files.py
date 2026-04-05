@@ -8,3 +8,4 @@ for file in files:
     print(file)
 
 print("one new local line")
+print("another new local line")
