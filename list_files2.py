@@ -8,3 +8,5 @@ for file in txt_files:
     print(file)
 
 print("one remote line")
+print("another remote line")
+
